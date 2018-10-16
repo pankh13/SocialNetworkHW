@@ -17,9 +17,9 @@ Use the code in jupyter notebook to run it.
 ### Test results
 
 #### Sample test 
-      | Parsed Datetime     | Not Parsed Datetime     
-True Datetime  | 10  |  0
-False Datetime      |   1   |  0    
+|       |   Parsed Datetime |   Not Parsed Datetime |     
+|   True Datetime  |    10  |   0   |
+|   False Datetime  |   1   |   0   |
 
 #### 
 
