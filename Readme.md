@@ -8,21 +8,7 @@ This is app takes a text as input and extracts date time from it. Date time coul
 
 ### Prerequisites
 
-Python3
-
-## Running the tests
-
-Use the code in jupyter notebook to run it. 
-
-### Test results
-
-#### Sample test 
-|       |   Parsed Datetime |   Not Parsed Datetime |
-| ------------- | ------------- | ------------- |
-|   True Datetime  |    10  |   0   |
-|   False Datetime  |   1   |   0   |
-
-#### 
+Python3, BeautifulSoup (Need to be installed first.)
 
 ## Built With
 
