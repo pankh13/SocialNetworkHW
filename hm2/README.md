@@ -57,7 +57,7 @@ accuracy is estimated at 100.0%;
 
 ### word bigram model (Good-Turing smoothing)
 
-|predicted_French |	predicted_English |	predicted_Italian |
+| |predicted_French |	predicted_English |	predicted_Italian |
 | ------------- | ------------- | ------------- |------------- |
 |true_French |	100 |	0 |	0 |
 |true_English |	2 |	97 |	1 |
@@ -69,7 +69,7 @@ accuracy is estimated at 93.3%.
 
 ### langid
 
-|	predicted_French |	predicted_English |	predicted_Italian |	predicted_other |
+|	| predicted_French |	predicted_English |	predicted_Italian |	predicted_other |
 | ------------- | ------------- | ------------- |------------- |------------- |
 |true_French |	100	| 0 |	0	| 0 |
 |true_English |	0 |	99	| 0	| 1 |
