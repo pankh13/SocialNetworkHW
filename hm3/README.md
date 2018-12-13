@@ -59,8 +59,7 @@ Descriptive statistics in the notebook;
 |2|What is the size of the corpus?|20,421 reviews |500,000 reviews|
 |3|What meta-data is provided with the reviews?|Doctor’s name, gender, clinic location, specialization, overall rating, review text|Doctor’s name, gender, clinic location; review sentiment|
 |4|What socio-demographic information is provided about the patients who wrote the reviews?|Nothing|Gender, age, economic and educational status|
-|5|Is the corpus balanced along the meta-data dimensions considered? (look only at sentiment and gender)|No; neither gender or sentiment is not distributed evenly. 
-|No (the dimensions are not uniformly distributed; they exhibit a natural distribution)|
+|5|Is the corpus balanced along the meta-data dimensions considered? (look only at sentiment and gender)|No; neither gender or sentiment is not distributed evenly. |No (the dimensions are not uniformly distributed; they exhibit a natural distribution)|
 
 
 The data is definitely relevant to this project, yet decent but not as good compared with the company’s data. The company has larger text corpus and, more importantly, they have more detailed info about the users who wrote the review. However we have most of the doctors information available and that should be enough for many analysis, so it’s not as good but still descent. 
