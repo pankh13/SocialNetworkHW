@@ -41,6 +41,18 @@ For more details please refer to the notebook.
 
 Detialed findings is included in the jupyter notebook, please refer to the notebook.
 
+### Task 1
+
+
+| Gender | Positive | Negative |  Total   |
+| ------ | -------- | -------- | -------- |
+|  |  |  20421 100% |
+| Female | 2686 13.15% | 2120 10.38% | 4806 23.53% |
+| Male | 9877 48.37% | 5738 28.10% | 15615 76.47% |
+
+
+
+
 ### Task 2
 
 1. Without lemmatization
