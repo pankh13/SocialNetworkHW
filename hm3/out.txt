@@ -1,0 +1,1080 @@
+Topic 1
+--------
+office
+appointment
+get
+see
+wait
+call
+time
+room
+staff
+minutes
+called
+never
+waiting
+back
+phone
+hours
+hour
+day
+nurse
+times
+-Collection 0
+  dr.
+  time
+  always
+  staff
+  questions
+  wait
+  friendly
+  worth
+  sometimes
+  awesome
+  pleasant
+  helpful
+  rushed
+  answered
+  quick
+  addressed
+  long
+  usually
+  quickly
+  within
+-Collection 1
+  told
+  rude
+  another
+  asked
+  got
+  waited
+  finally
+  months
+  exam
+  instead
+  hold
+  refill
+  supposed
+  letter
+  wrong
+  unfriendly
+  maybe
+  reschedule
+  bad
+  forgot
+-Collection 2
+  dr.
+  staff
+  time
+  always
+  helpful
+  office
+  questions
+  wait
+  friendly
+  great
+  day
+  also
+  every
+  easy
+  long
+  worth
+  answered
+  visit
+  talk
+  quickly
+-Collection 3
+  another
+  told
+  asked
+  said
+  n't
+  unprofessional
+  waited
+  first
+  got
+  finally
+  still
+  find
+  paperwork
+  heard
+  prescription
+  incompetent
+  months
+  tell
+  thing
+  spoke
+
+
+Topic 2
+--------
+n't
+went
+could
+told
+would
+blood
+doctor
+see
+got
+took
+test
+medication
+tests
+another
+take
+get
+never
+said
+meds
+back
+-Collection 0
+  dr.
+  helped
+  found
+  able
+  kolb
+  daughter
+  help
+  problems
+  since
+  thank
+  hollie
+  breast
+  grateful
+  women
+  better
+  fountis
+  thankful
+  implants
+  weight
+  fabulous
+-Collection 1
+  told
+  said
+  records
+  physical
+  read
+  stay
+  pap
+  requested
+  basically
+  crying
+  file
+  drug
+  medical
+  shocked
+  ended
+  wasted
+  hormones
+  pregnant
+  kristensen
+  ridiculous
+-Collection 2
+  dr.
+  years
+  helped
+  able
+  problems
+  found
+  problem
+  since
+  doctors
+  better
+  many
+  issues
+  aviv
+  seen
+  several
+  time
+  right
+  kakani
+  listened
+  immediately
+-Collection 3
+  told
+  said
+  asked
+  refused
+  test
+  drug
+  doc
+  kept
+  nurse
+  ended
+  even
+  problems
+  turned
+  telling
+  chart
+  nothing
+  dad
+  asking
+  records
+  ultrasound
+
+
+Topic 3
+--------
+n't
+get
+insurance
+want
+would
+know
+even
+like
+people
+doctor
+think
+tell
+office
+help
+going
+else
+work
+someone
+could
+see
+-Collection 0
+  dr.
+  great
+  doctors
+  everything
+  always
+  warm
+  nice
+  good
+  going
+  knows
+  've
+  honest
+  right
+  busy
+  seen
+  anywhere
+  drive
+  humor
+  things
+  helps
+-Collection 1
+  said
+  bill
+  asked
+  paid
+  charged
+  refused
+  cash
+  billing
+  pay
+  billed
+  shes
+  paper
+  top
+  incompetent
+  diet
+  complained
+  lost
+  didnt
+  bills
+  dog
+-Collection 2
+  doctor
+  good
+  dr.
+  've
+  see
+  like
+  need
+  things
+  one
+  really
+  doctors
+  nice
+  knows
+  say
+  know
+  doc
+  guy
+  way
+  seeing
+  honest
+-Collection 3
+  money
+  insurance
+  pay
+  guy
+  office
+  bill
+  paid
+  wife
+  billing
+  charged
+  sent
+  horrible
+  already
+  manager
+  billed
+  sign
+  big
+  company
+  comp
+  dollars
+
+
+Topic 4
+--------
+dr.
+time
+patients
+doctor
+patient
+questions
+care
+listen
+always
+good
+like
+answer
+takes
+things
+concerns
+seems
+much
+talk
+need
+makes
+-Collection 0
+  takes
+  caring
+  really
+  knowledgeable
+  listens
+  thorough
+  compassionate
+  truly
+  cares
+  kind
+  personable
+  wonderful
+  excellent
+  physician
+  trust
+  explains
+  spends
+  intelligent
+  willing
+  attentive
+-Collection 1
+  seem
+  awful
+  waste
+  uncaring
+  unhelpful
+  money
+  poor
+  condescending
+  disappointed
+  angry
+  voice
+  taylor
+  usually
+  basic
+  nath
+  confident
+  orders
+  whitaker
+  harwer
+  finish
+-Collection 2
+  always
+  takes
+  caring
+  listens
+  knowledgeable
+  great
+  cares
+  really
+  excellent
+  time
+  everything
+  questions
+  patient
+  well
+  explains
+  kind
+  physician
+  thorough
+  family
+  concerns
+-Collection 3
+  n't
+  rude
+  money
+  seems
+  waste
+  seem
+  people
+  little
+  arrogant
+  give
+  less
+  mistakes
+  rather
+  know
+  lacks
+  unhelpful
+  dismissive
+  retire
+  unprofessional
+  notes
+
+
+Topic 5
+--------
+dr.
+staff
+doctor
+would
+recommend
+manner
+office
+bedside
+great
+anyone
+good
+extremely
+nice
+helpful
+experience
+knowledgeable
+friendly
+well
+professional
+always
+-Collection 0
+  highly
+  recommend
+  great
+  professional
+  friendly
+  wonderful
+  knowledgeable
+  caring
+  helpful
+  friends
+  excellent
+  family
+  recommended
+  everyone
+  mccormack
+  understanding
+  courteous
+  answered
+  concerns
+  harwer
+-Collection 1
+  rude
+  terrible
+  cold
+  however
+  horrible
+  manager
+  hollie
+  melissa
+  incompetent
+  deal
+  yelled
+  lacks
+  dismissive
+  rawls
+  statements
+  barclay
+  madoff
+  wedlow
+  responsibility
+  indifferent
+-Collection 2
+  recommend
+  highly
+  great
+  excellent
+  knowledgeable
+  dr.
+  caring
+  helpful
+  professional
+  friendly
+  wonderful
+  kind
+  everyone
+  knowledgable
+  friends
+  compassionate
+  thorough
+  easy
+  personable
+  courteous
+-Collection 3
+  rude
+  terrible
+  horrible
+  bad
+  poor
+  uncaring
+  however
+  unprofessional
+  condescending
+  front
+  awful
+  unfriendly
+  arrogant
+  nasty
+  unhelpful
+  cold
+  attitude
+  shame
+  least
+  unpleasant
+
+
+Topic 6
+--------
+dr.
+would
+went
+n't
+one
+work
+look
+could
+results
+done
+made
+also
+experience
+good
+procedure
+going
+see
+never
+recommend
+years
+-Collection 0
+  feel
+  professional
+  happy
+  kind
+  really
+  comfortable
+  makes
+  skin
+  listened
+  explained
+  dermatologist
+  gentle
+  glad
+  lee
+  jacobson
+  mclaughlin
+  top
+  pleasure
+  bonakdar
+  every
+-Collection 1
+  horrible
+  left
+  woman
+  tried
+  money
+  check
+  dermatologist
+  legs
+  unpleasant
+  neither
+  mccormack
+  leaving
+  dirty
+  avoid
+  similar
+  gmitter
+  stuff
+  ruined
+  worse
+  rolled
+-Collection 2
+  staff
+  great
+  happy
+  amazing
+  feel
+  surgery
+  experience
+  done
+  procedure
+  surgeon
+  work
+  best
+  pleased
+  comfortable
+  professional
+  job
+  thank
+  results
+  extremely
+  plastic
+-Collection 3
+  left
+  worse
+  second
+  nose
+  fix
+  correct
+  tried
+  let
+  word
+  man
+  awful
+  take
+  cut
+  mistake
+  side
+  scar
+  vision
+  dirty
+  unhappy
+  elsewhere
+
+
+Topic 7
+--------
+doctor
+dr.
+ever
+one
+doctors
+care
+patients
+life
+many
+years
+family
+seen
+'ve
+treated
+patient
+met
+never
+husband
+find
+person
+-Collection 0
+  best
+  caring
+  years
+  've
+  love
+  wonderful
+  saved
+  compassionate
+  smart
+  amazing
+  seeing
+  area
+  knowledge
+  woman
+  expertise
+  beyond
+  knowledgable
+  seen
+  earth
+  dedicated
+-Collection 1
+  worst
+  unprofessional
+  attitude
+  nasty
+  woman
+  word
+  zero
+  vegan
+  seeking
+  blackburn
+  miserable
+  enemy
+  mean
+  disrespect
+  rudest
+  educated
+  pincus
+  hate
+  cutlip
+  killed
+-Collection 2
+  best
+  dr.
+  caring
+  years
+  wonderful
+  saved
+  life
+  family
+  truly
+  kind
+  man
+  compassionate
+  knowledge
+  thanks
+  cancer
+  amazing
+  brilliant
+  trust
+  lucky
+  god
+-Collection 3
+  worst
+  man
+  stay
+  away
+  guy
+  arrogant
+  father
+  horrible
+  please
+  lost
+  license
+  beware
+  old
+  let
+  thinks
+  favor
+  avoid
+  mean
+  warning
+  run
+
+
+Topic 8
+--------
+dr.
+like
+feel
+n't
+made
+never
+would
+first
+felt
+even
+child
+baby
+could
+doctor
+daughter
+questions
+time
+really
+well
+going
+-Collection 0
+  love
+  great
+  amazing
+  always
+  comfortable
+  took
+  pregnancy
+  delivered
+  ease
+  awesome
+  children
+  easy
+  sweet
+  fantastic
+  babies
+  absolutely
+  pediatrician
+  lot
+  concerns
+  kids
+-Collection 1
+  unprofessional
+  horrible
+  saw
+  worse
+  seemed
+  bother
+  acted
+  cut
+  insensitive
+  hurt
+  looked
+  disrespectful
+  impersonal
+  lazy
+  whitney
+  forget
+  hodges
+  cervix
+  cold
+  probst
+-Collection 2
+  dr.
+  love
+  feel
+  comfortable
+  wonderful
+  always
+  son
+  great
+  amazing
+  children
+  make
+  made
+  sure
+  makes
+  delivered
+  took
+  ease
+  old
+  going
+  years
+-Collection 3
+  n't
+  rude
+  seemed
+  get
+  something
+  basically
+  bad
+  jerk
+  want
+  maybe
+  cold
+  wrong
+  crying
+  problem
+  started
+  'll
+  tears
+  acted
+  comments
+  woman
+
+
+Topic 9
+--------
+surgery
+pain
+dr.
+back
+would
+went
+hospital
+months
+surgeon
+another
+told
+could
+cancer
+procedure
+two
+day
+needed
+weeks
+years
+husband
+-Collection 0
+  dr.
+  old
+  care
+  cancer
+  year
+  sure
+  thanks
+  excellent
+  wife
+  miller
+  great
+  doc
+  keep
+  friend
+  detailed
+  arnold
+  skilled
+  blessed
+  reddoch
+  team
+-Collection 1
+  refused
+  urine
+  ultrasound
+  hysterectomy
+  missed
+  levy
+  chart
+  died
+  fluid
+  fibroids
+  insisted
+  iud
+  cysts
+  barry
+  goldhaber
+  kolb
+  beware
+  saying
+  lively
+  .she
+-Collection 2
+  surgery
+  dr.
+  surgeon
+  recommend
+  performed
+  highly
+  recovery
+  shakiba
+  pain
+  first
+  thank
+  life
+  rivadeneira
+  explained
+  excellent
+  also
+  ago
+  met
+  recommended
+  job
+-Collection 3
+  surgery
+  said
+  pain
+  mri
+  never
+  still
+  told
+  later
+  wrong
+  nothing
+  worse
+  wanted
+  bone
+  spine
+  show
+  fusion
+  disc
+  ordered
+  late
+  nerve
+
+
+Topic 10
+--------
+dr.
+medical
+treatment
+patient
+health
+physician
+diagnosis
+condition
+care
+issues
+without
+practice
+information
+several
+knowledge
+many
+years
+received
+help
+medicine
+-Collection 0
+  dr.
+  well
+  years
+  excellent
+  thorough
+  knowledgeable
+  issues
+  knowledgable
+  past
+  options
+  efficient
+  referred
+  outstanding
+  continue
+  appreciate
+  satisfied
+  confident
+  helpful
+  happy
+  explaining
+-Collection 1
+  poor
+  lack
+  license
+  ignored
+  records
+  arrogant
+  effects
+  condescending
+  malpractice
+  thorough
+  elsewhere
+  record
+  child
+  likely
+  errors
+  mistakes
+  warning
+  becomes
+  supposedly
+  sometimes
+-Collection 2
+  dr.
+  care
+  well
+  years
+  options
+  thorough
+  pleased
+  outstanding
+  treatment
+  highly
+  top
+  professional
+  many
+  field
+  excellent
+  condition
+  every
+  treated
+  past
+  continue
+-Collection 3
+  poor
+  lack
+  records
+  instead
+  refused
+  failed
+  opinion
+  seeking
+  read
+  real
+  zero
+  cost
+  shocked
+  condescending
+  simply
+  alone
+  agree
+  response
+  request
+  appeared
+
+
