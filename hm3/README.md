@@ -44,54 +44,56 @@ Detialed findings is included in the jupyter notebook, please refer to the noteb
 ### Task 2
 
 1. Without lemmatization
+
 bill: 'patient asked could hand never problem even tip called bill',
 
 skin: 'told test father procedure first skin family woman arm pap',
+
 eye: 'son said call mother goodman eye flu physical one steroids',
+
 surgery: "surgery pain would breast dad surgeon 've clinic knee ask",
+
 family: 'doctor husband schwartz daughter get visit therapy patel evan dr.shakiba',
+
 non-english (noisy): 'dr. shakiba pasquale hollie rivadeneira dyer kolb comeau kurtz germin',
+
+
 appointment: 'appointment see exam back lopez child room routine ever body',
+
 cancer: 'office insurance staff doc really cancer wife code kwant company',
+
 medication: "n't time nurse mckay patients always medication techs waiting simponi",
+
 tooth: 'tooth like nose thyroid best went hip cavity germin results'
 
 2. with lemmatization
+
 appointment: "pain appointment could wife dad 've knee ultrasound ask months",
+
 test: 'told test like back never pap results jaller blomain fillers',
+
 non-english(noise) 'dr. office shakiba pasquale hollie rivadeneira dyer kolb comeau kurtz',
+
 breast: 'surgery would patient breast exam went room surgeon kakani comp',
+
 tooth: 'said tooth see get nose best really physical therapy cavity',
+
 medication: 'mother procedure first medication skin eye flu problem family one',
+
 thyroid: "n't thyroid mckay hip health techs vanessa simponi tissue problems",
+
 child: 'son call father doc visit lopez child goodman germin susie',
+
 family: 'doctor husband schwartz asked daughter cancer patel evan dr.shakiba kidney',
+
 insurance: 'time insurance staff hand nurse patients always code kwant company'
+
 
 the lemmatized version is a litter better than the one without, but the improvement is marginal in this data set. However the improvement is marginal here, and this might be because the data is too messy and less organized than supposed.  
 
 ### Extra Credit
 
-['wife dad always lopez ever need mom bohay kaplan dare',
- 'would code urinate billing knee comp stockall scope explained corrected',
- 'mother really one people far hour green year work appt',
- 'told test call pap results melissa kristensen team check pulmonary',
- 'never health clinic diet brother injections moles scars neck acupuncture',
- 'best child even body free fillers blomain sister schoenberg two',
- "n't cancer nurse mckay techs simponi tissue vanessa know nexium",
- 'time back went patients new ankle records sojourner valuable rude',
- 'surgery office breast maz ask rivadeneira pharmacy weeks take long',
- 'nose hip arm ride problems hospital mild meadows redding excellent',
- 'exam medication hand problem room steroids routine tip kids emch',
- 'eye visit called waiting lasik implants kim laser bussell lasers',
- 'tooth doc cavity tests treatment lab apt goldhaber pathology barrett',
- 'doctor husband schwartz daughter get therapy patel evan dr.shakiba kraus',
- 'appointment patient could thyroid done ultrasound months labs prescriptions coyle',
- 'son said father asked procedure first goodman skin physical family',
- 'like flu germin medications jaller mri sesslar barker atit barclay',
- 'insurance staff kwant company later dollars toe cigna dental cover',
- "pain see surgeon 've drug meds pills medicine medical knees",
- 'dr. shakiba pasquale hollie dyer kolb rivadeneira kurtz comeau alison']
+Detailed results in notebook
 
 It's not really better than those with 10 topics, since
 
@@ -99,15 +101,25 @@ It's not really better than those with 10 topics, since
 2) the topic models are not really improved they are getting more noises than 10 topics.
 
 cclda is running slower than lda, this might be bacause that cclda is using hierarchechal Bayes framework so it brings more calculation to be done. 
+
 topic 1: appointment; office,appointment,get,see,wait,call,time,room,staff,minutes
+
 topic 2: blood; n't,went,could,told,would,blood,doctor,see,got,took 
+
 topic 3: insurance; n't,get,insurance,want,would,know,even,like,people,doctor
+
 topic 4: question; dr.,time,patients,doctor,patient,questions,care,listen,always,good
+
 topic 5: recommendation; dr.,staff,doctor,would,recommend,manner,office,bedside,great,anyone
+
 topic 6: results; dr.,would,went,n't,one,work,look,could,results,done 
+
 topic 7: (noisy this one): doctor,dr.,ever,one,doctors,care,patients,life,many,years
+
 topic 8: feelings; dr.,like,feel,n't,made,never,would,first,felt,even
+
 topic 9: surgery; surgery,pain,dr.,back,would,went,hospital,months,surgeon,another
+
 topic 10: prescription; dr.,medical,treatment,patient,health,physician,diagnosis,condition,care,issues,without
 
 one of those topics is noisy, while the rest are good. the result is generally way better than lda. 
