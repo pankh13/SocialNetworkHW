@@ -53,8 +53,8 @@ Detialed findings is included in the jupyter notebook, please refer to the noteb
 Length of smallest review is 0 while the max is 900; (it shows 1 because we getting rid of null values will result more trouble) 
 Descriptive statistics in the notebook;
 
-|No.|Questions|RateMD corpus|Healthcare company’s corpus|(i.e., reference corpus)|
-| ------ | -------- | -------- | -------- | -------- |
+|No.|Questions|RateMD corpus|Healthcare company’s corpus (i.e., reference corpus)|
+| ------ | -------- | -------- | -------- | 
 |1|What is the language variety of the corpus (i.e., genre)?|Public narratives by atients.  |Reviews written by patients of the company’s clinics|
 |2|What is the size of the corpus?|20,421 reviews |500,000 reviews|
 |3|What meta-data is provided with the reviews?|Doctor’s name, gender, clinic location, specialization, overall rating, review text|Doctor’s name, gender, clinic location; review sentiment|
