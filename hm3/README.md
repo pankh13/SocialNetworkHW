@@ -46,7 +46,7 @@ Detialed findings is included in the jupyter notebook, please refer to the noteb
 
 | Gender | Positive | Negative |  Total   |
 | ------ | -------- | -------- | -------- |
-|  |  |  20421 100% |
+|        |          |  | 20421 100% |
 | Female | 2686 13.15% | 2120 10.38% | 4806 23.53% |
 | Male | 9877 48.37% | 5738 28.10% | 15615 76.47% |
 
