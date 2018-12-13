@@ -50,8 +50,20 @@ Detialed findings is included in the jupyter notebook, please refer to the noteb
 | Female | 2686 13.15% | 2120 10.38% | 4806 23.53% |
 | Male | 9877 48.37% | 5738 28.10% | 15615 76.47% |
 
+Length of smallest review is 0 while the max is 900; (it shows 1 because we getting rid of null values will result more trouble) 
+Descriptive statistics in the notebook;
+
+|No.|Questions|RateMD corpus|Healthcare company’s corpus|(i.e., reference corpus)|
+| ------ | -------- | -------- | -------- | -------- |
+|1|What is the language variety of the corpus (i.e., genre)?|Public narratives by atients.  |Reviews written by patients of the company’s clinics|
+|2|What is the size of the corpus?|20,421 reviews |500,000 reviews|
+|3|What meta-data is provided with the reviews?|Doctor’s name, gender, clinic location, specialization, overall rating, review text|Doctor’s name, gender, clinic location; review sentiment|
+|4|What socio-demographic information is provided about the patients who wrote the reviews?|Nothing|Gender, age, economic and educational status|
+|5|Is the corpus balanced along the meta-data dimensions considered? (look only at sentiment and gender)|No; neither gender or sentiment is not distributed evenly. 
+|No (the dimensions are not uniformly distributed; they exhibit a natural distribution)|
 
 
+The data is definitely relevant to this project, yet decent but not as good compared with the company’s data. The company has larger text corpus and, more importantly, they have more detailed info about the users who wrote the review. However we have most of the doctors information available and that should be enough for many analysis, so it’s not as good but still descent. 
 
 ### Task 2
 
